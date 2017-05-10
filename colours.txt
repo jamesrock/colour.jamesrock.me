@@ -1,0 +1,14 @@
+
+
+rgb color combo?
+
+white 			1 1 1
+black 			0 0 0
+blue 				0 0 1
+light blue 	0 1 1
+red 				1 0 0
+green 			0 1 0
+yellow 			1 1 0
+pink 				1 0 1
+
+

@@ -1,0 +1,16 @@
+.swatch {
+	width: 100px;
+	height: 100px;
+}
+
+.swatch.red {
+	background-color: rgb(255, 0, 0);
+}
+
+.swatch.green {
+	background-color: rgb(0, 255, 0);
+}
+
+.swatch.blue {
+	background-color: rgb(0, 0, 255);
+}
